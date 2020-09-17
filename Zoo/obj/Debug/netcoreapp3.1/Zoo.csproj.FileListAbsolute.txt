@@ -1,0 +1,12 @@
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\Zoo\obj\Debug\netcoreapp3.1\Zoo.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache
